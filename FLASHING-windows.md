@@ -17,7 +17,7 @@ Flashing Android to Brainy Pi is done in 3 easy steps
 
 ## 1. Download Android OS 
 
--   Download latest Android OS release from [link]()
+-   Download latest Android OS release from [link](https://github.com/brainypi/android-releases/releases/latest/download/brainypi-android11-22.12.10.zip)
 -   Extract the downloaded zip file. 
 
 ### 1a. Installing Tools and Drivers 
