@@ -1,5 +1,7 @@
 # BrainyPi Android Release
 
+Android 11 release by community for BrainyPi
+
 ## How to Flash Android on BrainyPi
 
 Flashing steps are different for Windows and Ubuntu/Debian (Linux) users 
