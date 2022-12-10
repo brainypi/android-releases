@@ -4,9 +4,7 @@
 1. BrainyPi/Brainy Pro v1.0
 2. Laptop/PC with Ubuntu 20.04 
 3. USB 5V 3A Power Supply 
-   ![img](assets/image2.jpg)
 4. USB Type C cable 
-   ![img](assets/image3.jpg)
 5. USB Male A to Male A cable
    ![img](assets/image5.jpg)
 
