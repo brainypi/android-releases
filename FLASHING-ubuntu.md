@@ -80,7 +80,7 @@ Flashing Android to Brainy Pi is done in 3 easy steps
    ```
 4. Download the GPT image to eMMC, by running the command 
    ```sh
-   rkdeveloptool wl 0 brainypi-recovery.img
+   rkdeveloptool wl 0 brainypi-android11-gpt.img
    ```
 5. Reboot the device by running the command 
    ```sh
