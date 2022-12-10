@@ -2,7 +2,8 @@
 
 ## How to Flash Android on BrainyPi
 
-For 
+Flashing steps are different for Windows and Ubuntu/Debian (Linux) users 
+
 1.  Windows machine users, follow [steps here](FLASHING-windows.md)
 2.  Ubuntu/Debian machine users, follow [steps here](FLASHING-ubuntu.md)
 
